@@ -20,4 +20,4 @@ Steps to Follow
 * automation-framework.bat file
     |___ Once the project is cloned to local directory
     |___ Update the project path as your local cloned directory path in automation-framework.bat
-    |___ Double click on the sh file to run the test.
+    |___ Double click on the bat file to run the test.
