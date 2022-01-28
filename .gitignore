@@ -1,0 +1,28 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# ignore Intellij-IDEA files
+*.ipr
+*.iws
+*.classpath
+*.settings
+*.project
+*.idea
+*.iml
+
+#ignore /.meta directories
+.meta/
+.metadata/
+.recommenders/
+
+# ignore target directories
+target/
+*.*~
+result/
+test-output/
+
+
