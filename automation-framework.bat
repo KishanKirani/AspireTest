@@ -1,4 +1,4 @@
-set projectLocation="C:\Users\KKS\AspireTest\aspire-test-framework"
+set projectLocation="C:\Users\KKS\AspireTest"
 cd %projectLocation%
 
 mvn clean test -PTest
